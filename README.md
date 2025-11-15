@@ -1,2 +1,2 @@
-# stroke_prediction_using_python
-Stroke Prediction Practice Project
+# Brain stroke_prediction_using_python_flask
+Stroke Prediction Advance Practice Project
